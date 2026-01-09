@@ -114,7 +114,7 @@
             bindings = <
   &kp GRAVE  &kp EXCL   &kp AT       &kp POUND       &kp DOLLAR    &kp EQUAL  &kp N1  &kp N2  &kp N3  &kp SEMI
   &kp TILDE  &kp STAR   &kp PIPE     &kp UNDER       &kp MINUS     &kp N0     &kp N4  &kp N5  &kp N6  &kp COLON
-  &none      &kp CARET  &kp PERCENT  &kp AMPERSAND   &trans        &trans     &kp N7  &kp N8  &kp N9  &trans
+  &none      &kp CARET  &kp PERCENT  &kp AMPERSAND   &none         &trans     &kp N7  &kp N8  &kp N9  &trans
                         &trans       &kp LEFT_SHIFT  &lt 3 TAB     &trans     &trans
             >;
         };
